@@ -2,8 +2,8 @@
 
 Trabalho de Inteligência Artificial (UFPI, 2026.2). É um simulador de algoritmo genético que roda no navegador e escolhe projetos de melhoria do campus, tentando maximizar o benefício total sem passar do orçamento.
 
-- Aplicação: [https://EudesN.github.io/ag-projetos-campus/](https://eudesn.github.io/algoritmo-genetico/)
-- Repositório: [https://github.com/EudesN/ag-projetos-campus](https://github.com/EudesN/algoritmo-genetico)
+- Aplicação: [https://EudesN.github.io/algoritmo-genetico/](https://eudesn.github.io/algoritmo-genetico/)
+- Repositório: [https://github.com/EudesN/algoritmo-genetico](https://github.com/EudesN/algoritmo-genetico)
 
 ## Autores
 
